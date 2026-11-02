@@ -1,0 +1,6 @@
+{
+  "name": "Portal Resmi Sekolah & CMS Manajemen Konten",
+  "description": "Website profil sekolah dinamis, data SDM guru & staf, data siswa, kegiatan, program sekolah, dan sistem manajemen konten (CMS) admin terpadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
